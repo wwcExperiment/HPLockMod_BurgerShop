@@ -24,10 +24,11 @@ Game_Path\BepInEx\plugins\
 ```
 
 ### 3. Usage
-Launch the game. After entering a level, press Hotkey 1 to toggle HP lock. Press Hotkey 5 to enable real-time outfit change.
+Launch the game. After entering a level, press `Hotkey 1` to toggle HP lock. Press `Hotkey 5` to enable real-time outfit change.
+<img width="414" height="287" alt="image" src="https://github.com/user-attachments/assets/33f4cd1a-ebc5-4776-b49e-b8bba75c928c" />
 
 
 If your antivirus flags winhttp.dll, it is a false positive; just trust it.
 
-4. Uninstall
+### 4. Uninstall
 Delete the BepInEx folder, winhttp.dll, and doorstop_config.ini.
