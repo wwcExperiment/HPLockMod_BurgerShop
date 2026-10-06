@@ -1,5 +1,5 @@
 # HPLockMod_BurgerShop
-BepInEx Plugin for game Four Nights at the Burger Shop, locking HP and changing clothes (key 1 , key 5)
+BepInEx Plugin for game 4 n at the Burger Shop, locking HP and changing clothes (key 1 , key 5)
 
 # Install
 Plugin is based on BepInEx 5
